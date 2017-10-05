@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClienteBuscaListaDetalheSI3ANMCA</string>
+    <string name="action_settings">Settings</string>
+    <string name="dica_busca">Digite o que deseja encontrar</string>
+</resources>
