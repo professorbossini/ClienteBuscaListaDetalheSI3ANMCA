@@ -4,11 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="br.com.bossini.clientebuscalistadetalhesi3anmca.ListaActivity"
-    android:orientation="vertical">
+    tools:context="br.com.bossini.clientebuscalistadetalhesi3anmca.DetalhesActivity">
 
-    <ListView
-        android:id="@+id/nomesListView"
+
+    <TextView
+        android:id="@+id/nomeTextView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"></ListView>
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
